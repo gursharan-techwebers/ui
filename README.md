@@ -2,6 +2,8 @@
 # https://rsms.me/inter/
 # https://weareyellowball.com/
 
+--preset b3963W2Ej
+
 
 // app/layout.tsx
 
