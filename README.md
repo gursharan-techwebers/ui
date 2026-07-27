@@ -2,7 +2,7 @@
 # https://rsms.me/inter/
 # https://weareyellowball.com/
 
-## preset b1aKNFeoD
+## --preset b1aKNFeoD
 
 
 // app/layout.tsx
