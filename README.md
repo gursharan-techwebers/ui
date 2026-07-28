@@ -30,3 +30,17 @@ export default function RootLayout({
 body {
   font-family: var(--font-inter), system-ui, sans-serif;
 }
+
+
+
+html {
+  font-family: var(--font-inter), Inter, sans-serif;
+
+  font-optical-sizing: auto;
+  font-feature-settings: "liga" 1, "calt" 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  text-rendering: optimizeLegibility;
+}
